@@ -3,7 +3,7 @@
 2. TeleGram : https://t.me/UPS4K1B
 3. Author : S4K1B K1NG
 
-<img src="https://github.com/S4K1BK1NG/GhostTrack/blob/main/asset/bn.png"/>
+<img src="https://i.ibb.co/ySCJz0z/20240415-061605.jpg"/>
 
 ### Instalation on Linux (deb)
 ```
