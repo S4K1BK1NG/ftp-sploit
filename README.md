@@ -21,6 +21,6 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/S4K1BK1NG/ft0p-sploit.git
+git clone https://github.com/S4K1BK1NG/ftp-sploit.git
 cd ftp-sploit
 python3 main.py
