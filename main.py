@@ -21,7 +21,7 @@ print(Fore.BLUE + Style.BRIGHT + '''
                         |_|              
             FTP-Sploit
      Tools Cracked Password''' + Style.RESET_ALL)
-print(" Copyright : Pham Chien")
+print(" Copyright : S4K1B")
 print("")
 print("Dont Talk http:// or https:// ( ex : Url : ex.com )")
 print("")
